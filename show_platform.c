@@ -39,7 +39,14 @@ void show_pointer(void *x)
 /*
  测试平台的各种数据类型，以及大小端
  
- 测试结果：
+MAC_PRO 2.6 GHz Intel Core i7 测试结果：
+78 56 
+78 56 34 12 
+b4 a2 91 4d 
+00 00 00 78 56 34 b2 41 
+8c d9 45 e5 fe 7f 00 00 
+
+
  short 2Bytes
  int 4Bytes
  float 4Bytes
